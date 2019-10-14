@@ -1,6 +1,6 @@
 {
     "name": "vscode-jack-hdl-nand2tetris",
-    "displayName": "Jack (Nand2Tetris Part II)",
+    "displayName": "Nand2Tetris Enhanced",
     "description": "Jack syntax highlighting for Part II of the Nand to Tetris course.",
     "version": "0.1.2",
     "publisher": "julielollis",
