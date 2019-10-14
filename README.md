@@ -4,7 +4,7 @@ Language definitions for the Jack OS and HDL from Nand to Tetris Parts I and II
 
 This is just practice for making a VSCode extension.
 
-Added language definitions for Jack OS to this VSCode extension:
+Added Jack language definitions to this VSCode extension:
 https://github.com/roblourens/vscode-nand2tetris-hdl
 
 How-to:
@@ -15,3 +15,4 @@ How-to:
 `vsce package`
 
 - load vsix file in VSCode.
+
