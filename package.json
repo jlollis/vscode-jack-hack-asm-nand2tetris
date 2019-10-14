@@ -3,7 +3,7 @@
     "displayName": "Nand2Tetris Enhanced",
     "description": "Snippets and syntax highlighting for the Jack, HDL and ASM languages from the Nand2Tetris course, Parts I and II.",
     "version": "0.1.0",
-    "publisher": "jlollis",
+    "publisher": "julielollis",
     "engines": {
         "vscode": "^1.13.0"
     },
