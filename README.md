@@ -7,10 +7,6 @@ This is just practice for making a VSCode extension.
 Added language definitions for Jack OS to this VSCode extension:
 https://github.com/roblourens/vscode-nand2tetris-hdl
 
-Other sources:
-https://github.com/zirrostig/vim-jack-syntax/blob/master/syntax/jack.vim
-
-
 How-to:
 - be sure that node.js installed first, the run:
 `npm install -g vsce`

@@ -1,16 +1,16 @@
 {
-    "name": "vscode-nand2tetris-hdl",
-    "displayName": "Nand2Tetris",
-    "description": "Snippets and syntax highlighting for the HDL and ASM languages from the Nand2Tetris course.",
+    "name": "vscode-jack-hack-asm-nand2tetris",
+    "displayName": "Nand2Tetris Enhanced",
+    "description": "Snippets and syntax highlighting for the Jack, HDL and ASM languages from the Nand2Tetris course, Parts I and II.",
     "version": "0.1.0",
-    "publisher": "roblourens",
+    "publisher": "jlollis",
     "engines": {
         "vscode": "^1.13.0"
     },
     "icon": "images/icon.png",
     "repository": {
         "type": "git",
-        "url": "https://github.com/roblourens/vscode-nand2tetris-hdl"
+        "url": "https://github.com/jlollis/vscode-jack-hack-asm-nand2tetris"
     },
     "categories": [
         "Languages"
