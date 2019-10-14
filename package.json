@@ -1,8 +1,8 @@
 {
-    "name": "vscode-jack-hack-asm-nand2tetris",
+    "name": "vscode-jack-hdl-nand2tetris",
     "displayName": "Jack (Nand2Tetris Part II)",
     "description": "Jack syntax highlighting for Part II of the Nand to Tetris course.",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "publisher": "julielollis",
     "engines": {
         "vscode": "^1.13.0"

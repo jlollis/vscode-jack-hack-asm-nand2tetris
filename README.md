@@ -1,6 +1,9 @@
-## vscode-jack-hack-asm-nand2tetris
+## Jack (Nand to Tetris II)
 
-Syntax highlighting for the Jack, HDL and ASM languages used in Nand2Tetris, Parts I and II.
+Syntax highlighting for the Jack and HDL languages used in Nand2Tetris, Parts I and II.
 
 Added Jack language definitions to this VSCode extension:
 https://github.com/roblourens/vscode-nand2tetris-hdl
+
+
+[Github Repo for Jack(Nand to Tetris II)](https://github.com/jlollis/vscode-jack-hdl-nand2tetris)
