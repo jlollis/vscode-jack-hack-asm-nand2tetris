@@ -1,4 +1,4 @@
-## Nand2Tetris Jack HDL
+# Nand2Tetris Jack HDL
 
 Syntax highlighting for the Jack and HDL languages used in Nand2Tetris, Parts I and II.
 
