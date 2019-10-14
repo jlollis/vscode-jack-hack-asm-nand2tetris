@@ -2,7 +2,7 @@
     "name": "vscode-jack-hdl-nand2tetris",
     "displayName": "Nand2Tetris Jack HDL",
     "description": "Jack and HDL syntax highlighting for Nand to Tetris, Parts I and II.",
-    "version": "0.0.1",
+    "version": "0.1.4",
     "publisher": "julielollis",
     "engines": {
         "vscode": "^1.13.0"
