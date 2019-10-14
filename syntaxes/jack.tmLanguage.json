@@ -19,6 +19,12 @@
       "name": "comment.line.jack"
     },
     {
+      "comment": "api comment",
+      "begin": "\\/\\*\\*",
+      "end": "\\*\\/",
+      "name": "comment.api.jack"
+    }
+    {
       "comment": "",  
       "name": "keyword.control.jack",
       "match": "\\b(let|if|else|while|do|return)\\b"
