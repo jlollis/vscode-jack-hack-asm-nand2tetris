@@ -10,7 +10,7 @@
     "icon": "images/icon.png",
     "repository": {
         "type": "git",
-        "url": "https://github.com/jlollis/vscode-jack-hack-asm-nand2tetris"
+        "url": "https://github.com/jlollis/vscode-jack-hdl-nand2tetris"
     },
     "categories": [
         "Languages"
